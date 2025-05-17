@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktivinov_docs=self.webpackChunktivinov_docs||[]).push([[9228],{9369:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/ranusteam.github.io/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

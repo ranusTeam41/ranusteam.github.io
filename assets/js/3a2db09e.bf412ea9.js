@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktivinov_docs=self.webpackChunktivinov_docs||[]).push([[8121],{8070:s=>{s.exports=JSON.parse('{"tags":[{"label":"Windows","permalink":"/blog/tags/windows","count":1},{"label":"Activation","permalink":"/blog/tags/activation","count":1}]}')}}]);

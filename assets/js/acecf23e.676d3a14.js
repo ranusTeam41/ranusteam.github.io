@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktivinov_docs=self.webpackChunktivinov_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/ranusteam.github.io/blog","blogTitle":"Blog","authorsListPath":"/ranusteam.github.io/blog/authors"}')}}]);
