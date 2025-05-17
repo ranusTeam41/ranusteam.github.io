@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktivinov_docs=self.webpackChunktivinov_docs||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Developer","permalink":"/blog/TivinovDev","unlisted":false,"date":"2025-02-14T00:00:00.000Z"},{"title":"Keyhole","permalink":"/blog/2024/09/06/Keyhole","unlisted":false,"date":"2024-09-06T00:00:00.000Z"}]}')}}]);

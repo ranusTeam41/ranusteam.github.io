@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://massgrave.dev/blog</id>
+    <title>(KRA)TivinovDEv Blog</title>
+    <updated>2025-02-14T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://massgrave.dev/blog"/>
+    <subtitle>(KRA)TivinovDEv Blog</subtitle>
+    <icon>https://massgrave.dev/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Developer]]></title>
+        <id>https://massgrave.dev/blog/TivinovDev</id>
+        <link href="https://massgrave.dev/blog/TivinovDev"/>
+        <updated>2025-02-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[By TivinovDev]]></summary>
+        <content type="html"><![CDATA[<p>By TivinovDev
+Edited by ranusTeam41</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="https://massgrave.dev/blog/TivinovDev#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2>
+<p>TivinovDev we use KMS to activate Windows/Office, which helps many clients to connect to the server and then activate it, which it considers legitimate.</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="special-thanks">Special Thanks<a href="https://massgrave.dev/blog/TivinovDev#special-thanks" class="hash-link" aria-label="Direct link to Special Thanks" title="Direct link to Special Thanks">​</a></h4>
+<ul>
+<li>RanusTeam41 : assist in the research and development of the tool itself</li>
+</ul>]]></content>
+        <author>
+            <name>RanusTeam41</name>
+            <uri>https://github.com/ranusteam41</uri>
+        </author>
+        <author>
+            <name>noname</name>
+            <uri>https://github.com/ranusteam41</uri>
+        </author>
+        <author>
+            <name>noname</name>
+            <uri>https://github.com/ranusteam41</uri>
+        </author>
+        <author>
+            <name>noname</name>
+            <uri>https://github.com/ranusteam41</uri>
+        </author>
+        <category label="Windows" term="Windows"/>
+        <category label="Activation" term="Activation"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyhole]]></title>
+        <id>https://massgrave.dev/blog/2024/09/06/Keyhole</id>
+        <link href="https://massgrave.dev/blog/2024/09/06/Keyhole"/>
+        <updated>2024-09-06T00:00:00.000Z</updated>
+    </entry>
+</feed>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>(KRA)TivinovDEv Blog</title>
+        <link>https://massgrave.dev/blog</link>
+        <description>(KRA)TivinovDEv Blog</description>
+        <lastBuildDate>Fri, 14 Feb 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Developer]]></title>
+            <link>https://massgrave.dev/blog/TivinovDev</link>
+            <guid>https://massgrave.dev/blog/TivinovDev</guid>
+            <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[By TivinovDev]]></description>
+            <content:encoded><![CDATA[<p>By TivinovDev
+Edited by ranusTeam41</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="https://massgrave.dev/blog/TivinovDev#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2>
+<p>TivinovDev we use KMS to activate Windows/Office, which helps many clients to connect to the server and then activate it, which it considers legitimate.</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="special-thanks">Special Thanks<a href="https://massgrave.dev/blog/TivinovDev#special-thanks" class="hash-link" aria-label="Direct link to Special Thanks" title="Direct link to Special Thanks">​</a></h4>
+<ul>
+<li>RanusTeam41 : assist in the research and development of the tool itself</li>
+</ul>]]></content:encoded>
+            <category>Windows</category>
+            <category>Activation</category>
+        </item>
+        <item>
+            <title><![CDATA[Keyhole]]></title>
+            <link>https://massgrave.dev/blog/2024/09/06/Keyhole</link>
+            <guid>https://massgrave.dev/blog/2024/09/06/Keyhole</guid>
+            <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
